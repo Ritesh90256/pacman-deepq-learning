@@ -51,11 +51,13 @@ Example gameplay video can be found in /results/.
 
 Project Structure :
 
+```bash
 Pacman/
 ├── src/ # Training and inference scripts
 ├── results/ # Gameplay video (.mp4)
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
+```
 
 Note
 
