@@ -19,4 +19,4 @@ while not done:
     state, reward, done, _, _ = env.step(action)
 
 env.close()
-imageio.mimsave("results/pacman_demo.mp4", frames, fps=30)
+imageio.mimsave("results/Deep_Convolutional_Q_Learning.mp4", frames, fps=30)
